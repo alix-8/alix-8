@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8c867d10-936b-454d-93b2-02e4eb89cd60" alt="Sleeping Stardew Valley Ginger Cat">
+  </a>
+</div>
 
 
 <!--
