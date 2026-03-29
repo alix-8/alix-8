@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=alix-8" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=alix-8" alt="GitHub Streak" style="width: 500px; height: auto;">
   </a>
 </div>
 
-<div align="center" style="width:500px;">
-    <img src="https://github.com/user-attachments/assets/8c867d10-936b-454d-93b2-02e4eb89cd60" alt="Sleeping Stardew Valley Ginger Cat">
-</div>
+<br>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8c867d10-936b-454d-93b2-02e4eb89cd60" alt="Sleeping Stardew Valley Ginger Cat" style="width: 500px; height: auto;">
+</div>
 
 <!--
 **alix-8/alix-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
