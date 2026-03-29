@@ -1,5 +1,4 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alix-8)](https://git.io/streak-stats)
 <!--
 **alix-8/alix-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
