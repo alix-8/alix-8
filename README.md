@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/8c867d10-936b-454d-93b2-02e4eb89cd60" alt="Sleeping Stardew Valley Ginger Cat" style="width: 250px; height: auto;">
+    <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=1232744520" alt="Sleeping Stardew Valley Ginger Cat" style="width: 250px; height: auto;">
 </div>
 
 <!--
