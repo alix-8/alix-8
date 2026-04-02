@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=181818&borderColor=383838" />
   <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=181818" />
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=181818" />
