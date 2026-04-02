@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=fleet&bg=%23181818&badge=%23d6d6dd&border=%23383838&titleColor=%2383d6c5&line1=python,java,javascript,php&line2=html5,css3,laravel" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=fleet&bg=%23181818&badge=%23d6d6dd&border=%23383838&titleColor=%2383d6c5&line1=python,openjdk,javascript,php&line2=html5,css3,laravel" alt="My Tech Stack" />
 
 <div align="center">
     <img src="https://images.steamusercontent.com/ugc/919162814702621082/4DDBE5B38A3ABE0C8BC2C4774C2710C329B1C689/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Sleeping Stardew Valley Ginger Cat" style="width: 250px; height: auto;">
