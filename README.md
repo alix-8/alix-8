@@ -6,7 +6,15 @@
 
 <br>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=fleet&bg=%23181818&badge=%23d6d6dd&border=%23383838&titleColor=%2383d6c5&line1=python,openjdk,javascript,php&line2=html5,css3,laravel" alt="My Tech Stack" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=181818&borderColor=383838" />
+  <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=181818" />
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=181818" />
+  <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=777BB3&labelColor=181818" />
+  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=181818" />
+  <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=181818" />
+  <img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=181818" />
+</p>
 
 <div align="center">
     <img src="https://images.steamusercontent.com/ugc/919162814702621082/4DDBE5B38A3ABE0C8BC2C4774C2710C329B1C689/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Sleeping Stardew Valley Ginger Cat" style="width: 250px; height: auto;">
