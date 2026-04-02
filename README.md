@@ -1,4 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alix-8)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=alix-8)](https://git.io/streak-stats)
+</p>
 
 <br>
 
