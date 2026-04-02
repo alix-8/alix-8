@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=alix-8" alt="GitHub Streak" style="width: 500px; height: auto;">
-  </a>
-</div>
+
 
 <br>
 
