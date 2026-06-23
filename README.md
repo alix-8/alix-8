@@ -5,7 +5,7 @@
 </p> -->
 ---
 ## Hello, I'm Alexandrian Bon!
-**Aspiring Web Developer**
+**A BSIS student aspiring to be a Web Developer**
 <br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
 
 ---
