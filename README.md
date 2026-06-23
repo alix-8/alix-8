@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix-8&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 
-
+## 🔵Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=oracle&logoColor=ED8B00" />
