@@ -3,6 +3,15 @@
     <img src="https://streak-stats.demolab.com?user=alix-8&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p> -->
+---
+## Hello, I'm Alexandrian Bon!
+Aspiring Web Developer
+<br/>BUT still learning, discovering and exploring other roles
+
+---
+$${\color{blue}"Walk \space the \space paths \space of \space logic. \space Every \space outcome \space has \space its \space cause, \space and \space every \space predicament \space has \space its \space solution. \space Every \space lock \space its \space key."}$$
+<br/>Anthony Doerr, All the Light We Cannot See
+
 ## 🔵GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alix-8&show_icons=true&theme=tokyonight&hide_border=true" />
