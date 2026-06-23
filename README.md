@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-    <img src="https://images.steamusercontent.com/ugc/919162814702621082/4DDBE5B38A3ABE0C8BC2C4774C2710C329B1C689/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Sleeping Stardew Valley Ginger Cat" style="width: 250px; height: auto;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJldXAyczhucWtrbHYycXFleWw0ankwejFsNmM2YTQyZnhqa21mcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gFuMnF2oLjUfC/giphy.gif" alt="Cat" style="width: 250px; height: auto;">
 </div>
 
 <!--
