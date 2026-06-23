@@ -3,7 +3,7 @@
     <img src="https://streak-stats.demolab.com?user=alix-8&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p> -->
-##🔵GitHub Stats
+## 🔵GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alix-8&theme=material-palenight&hide_border=true&show_icons=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alix-8&theme=material-palenight&hide_border=true" height="165"/>
