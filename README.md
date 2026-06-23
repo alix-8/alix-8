@@ -6,7 +6,7 @@
 ---
 ## Hello, I'm Alexandrian Bon!
 Aspiring Web Developer
-<br/>BUT still learning, discovering and exploring other roles. Like what Emily Dickinson said "I'm out with lanterns looking for myself".
+<br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: "I'm out with lanterns looking for myself".
 
 ---
 $${\color{blue}"Walk \space the \space paths \space of \space logic. \space Every \space outcome \space has \space its \space cause, \space and \space every \space predicament \space has \space its \space solution. \space Every \space lock \space its \space key."}$$
