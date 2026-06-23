@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix-8&theme=material-tokyonight&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix-8&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 
 
