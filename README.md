@@ -5,8 +5,8 @@
 </p> -->
 ## 🔵GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alix-8&theme=material-palenight&hide_border=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alix-8&theme=material-palenight&hide_border=true" height="165"/>
+  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api?username=garrellmacarilay&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=garrellmacarilay&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
