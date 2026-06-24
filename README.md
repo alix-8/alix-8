@@ -25,10 +25,10 @@
   <tr valign="top">
     <td align="center" width="20%">
       <strong>Programming Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=777BB3" />
       <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" /><br/>
       <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
-      <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=777BB3" />
     </td>
     <td align="center" width="20%">
       <strong>Frontend Development</strong><br/><br/>
