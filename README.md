@@ -21,41 +21,39 @@
 </p>
 
 ## 🔵Tech Stack
-
-<p align="center">
-  Programming Languages<br/>
-  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=oracle&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=777BB3" />
-</p>
-
-<p align="center">
-  Frontend Development<br/>
-  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-181818?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</p>
-
-<p align="center">
-  Framework<br/>
-  <img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-</p>
-
-<p align="center">
-  Design Tool
-  <img src="https://img.shields.io/badge/Figma-181818?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</p>
-
-
-<p align="center">
-  Databases<br/>
-  <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MariaDB-181818?style=for-the-badge&logo=mariadb&logoColor=003545" />
-  <img src="https://img.shields.io/badge/SQLite-181818?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-</p>
-
+<table align="center">
+  <tr valign="top">
+    <td align="center" width="20%">
+      <strong>Programming Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" /><br/>
+      <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
+      <img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=777BB3" />
+    </td>
+    <td align="center" width="20%">
+      <strong>Frontend Development</strong><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6" /><br/>
+      <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Bootstrap-181818?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+    </td>
+    <td align="center" width="20%">
+      <strong>Framework</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+    </td>
+    <td align="center" width="20%">
+      <strong>Environment & Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Laragon-181818?style=for-the-badge&logo=laragon&logoColor=06B6F6" /><br/>
+      <img src="https://img.shields.io/badge/Figma-181818?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+    </td>
+    <td align="center" width="20%">
+      <strong>Databases</strong><br/><br/>
+      <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=4479A1" /><br/>
+      <img src="https://img.shields.io/badge/MariaDB-181818?style=for-the-badge&logo=mariadb&logoColor=003545" /><br/>
+      <img src="https://img.shields.io/badge/SQLite-181818?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJldXAyczhucWtrbHYycXFleWw0ankwejFsNmM2YTQyZnhqa21mcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gFuMnF2oLjUfC/giphy.gif" alt="Cat" style="width: 250px; height: auto;">
