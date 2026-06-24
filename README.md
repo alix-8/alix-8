@@ -72,8 +72,13 @@
 
 <img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
 
-<br/>Anthony Doerr, All the Light We Cannot See
-$${\color{blue}"Walk \space the \space paths \space of \space logic. \space Every \space outcome \space has \space its \space cause, \space and \space every \space predicament \space has \space its \space solution. \space Every \space lock \space its \space key."}$$
+<span align="center">
+
+  $${\color{blue}"Walk \space the \space paths \space of \space logic. \space Every \space outcome \space has \space its \space cause, \space and \space every \space predicament \space has \space its \space solution. \space Every \space lock \space its \space key."}$$
+  <br/>Anthony Doerr, All the Light We Cannot See
+
+
+</span>
 
 <img width="100%" height="77" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
 
