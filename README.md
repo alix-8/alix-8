@@ -9,14 +9,18 @@
 </div> -->
 <img width="100%" height="93" alt="image" src="https://github.com/user-attachments/assets/465e1bca-98fc-4101-a50e-42715ea37e82" />
 
-## Hello, I'm Alexandrian Bon!
-**A BSIS student aspiring to be a Web Developer**
-<br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
+<span align="center">
+  
+  ## Hello, I'm Alexandrian Bon!
+  **A BSIS student aspiring to be a Web Developer**
+  <br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
+  
+</span>
 
 <img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
 
 <details>
- <summary> <h2>🔵GitHub Stats</h2>  </summary>
+ <summary> <h3>🔵GitHub Stats</h3>  </summary>
   <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=alix-8&show_icons=true&theme=tokyonight&hide_border=true" />
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alix-8&theme=tokyonight&hide_border=true" />
@@ -30,7 +34,7 @@
 <img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
 
 <details>
-  <summary> <h2>🔵Tech Stack</h2>  </summary>
+  <summary> <h3>🔵Tech Stack</h3>  </summary>
   <table align="center">
     <tr valign="top">
       <td align="center" width="20%">
