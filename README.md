@@ -40,6 +40,7 @@
     <td align="center" width="20%">
       <strong>Framework</strong><br/><br/>
       <img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+      <img src="https://img.shields.io/badge/Blade-181818?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
     </td>
     <td align="center" width="20%">
       <strong>Environment & Tools</strong><br/><br/>
