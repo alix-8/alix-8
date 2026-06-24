@@ -4,6 +4,10 @@
   </a>
 </p> -->
 ---
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJldXAyczhucWtrbHYycXFleWw0ankwejFsNmM2YTQyZnhqa21mcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gFuMnF2oLjUfC/giphy.gif" alt="Cat" style="width: 250px; height: auto;">
+</div>
+
 ## Hello, I'm Alexandrian Bon!
 **A BSIS student aspiring to be a Web Developer**
 <br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
@@ -61,10 +65,6 @@
 </details>
 
 ---
-
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJldXAyczhucWtrbHYycXFleWw0ankwejFsNmM2YTQyZnhqa21mcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gFuMnF2oLjUfC/giphy.gif" alt="Cat" style="width: 250px; height: auto;">
-</div>
 
 <br/>Anthony Doerr, All the Light We Cannot See
 $${\color{blue}"Walk \space the \space paths \space of \space logic. \space Every \space outcome \space has \space its \space cause, \space and \space every \space predicament \space has \space its \space solution. \space Every \space lock \space its \space key."}$$
