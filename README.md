@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix-8&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
-
+---
 ## 🔵Tech Stack
 <table align="center">
   <tr valign="top">
