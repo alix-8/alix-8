@@ -4,15 +4,17 @@
   </a>
 </p> -->
 ---
-<div align="center">
+<!-- <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJldXAyczhucWtrbHYycXFleWw0ankwejFsNmM2YTQyZnhqa21mcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gFuMnF2oLjUfC/giphy.gif" alt="Cat" style="width: 250px; height: auto;">
-</div>
+</div> -->
+<img width="100%" height="93" alt="image" src="https://github.com/user-attachments/assets/465e1bca-98fc-4101-a50e-42715ea37e82" />
 
 ## Hello, I'm Alexandrian Bon!
 **A BSIS student aspiring to be a Web Developer**
 <br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
 
----
+<img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
+
 <details>
  <summary> <h2>🔵GitHub Stats</h2>  </summary>
   <p align="center">
@@ -25,7 +27,8 @@
   </p> 
 </details>
 
----
+<img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
+
 <details>
   <summary> <h2>🔵Tech Stack</h2>  </summary>
   <table align="center">
@@ -64,10 +67,13 @@
   </table>
 </details>
 
----
+<img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
 
 <br/>Anthony Doerr, All the Light We Cannot See
 $${\color{blue}"Walk \space the \space paths \space of \space logic. \space Every \space outcome \space has \space its \space cause, \space and \space every \space predicament \space has \space its \space solution. \space Every \space lock \space its \space key."}$$
+
+<img width="100%" height="77" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
+
 
 
 <!--
