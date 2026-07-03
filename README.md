@@ -27,14 +27,14 @@
 
 <details>
  <summary> <h3>🔵GitHub Stats</h3>  </summary>
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=alix-8&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alix-8&theme=tokyonight&hide_border=true" />
+   <p align="center">
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=alix-8&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=alix-8&theme=tokyonight&hide_border=true" />
   </p>
-  
+    
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alix-8&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-  </p> 
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=alix-8&theme=tokyonight&hide_border=true&layout=compact" />
+  </p>
 </details>
 
 <img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
