@@ -17,6 +17,12 @@
   
 </span>
 
+<h3>🔵About Me</h3>
+
+* A BSIS student at La Verdad Christian College
+* Aspiring to be a Web Developer
+* 
+  
 <img width="100%" height="5" alt="water lilies heading bottom" src="https://github.com/user-attachments/assets/36672006-68f7-474b-ae3d-3331c338077d" />
 
 <details>
