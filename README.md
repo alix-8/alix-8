@@ -34,7 +34,7 @@
   </p>
     
   <p align="center">
-    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs?username=alix-8&theme=tokyonight&hide_border=true&layout=compact" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs?username=alix-8&theme=tokyonight&hide_border=true&layout=compact"/>
   </p>
 </details>
 
