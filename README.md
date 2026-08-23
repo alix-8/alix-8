@@ -54,8 +54,9 @@
       <td align="center" width="20%">
         <strong>Frontend Development</strong><br/><br/>
         <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" /><br/>
-        <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6" /><br/>
+        <img src="https://img.shields.io/badge/CSS-181818?style=for-the-badge&logo=css&logoColor=1572B6" /><br/>
         <img src="https://img.shields.io/badge/Bootstrap-181818?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+        <img src="https://img.shields.io/badge/Tailwind-181818?style=for-the-badge&logo=tailwindcss&logoColor=06B6F6" />
       </td>
       <td align="center" width="20%">
         <strong>Framework</strong><br/><br/>
