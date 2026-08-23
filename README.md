@@ -69,6 +69,7 @@
         <img src="https://img.shields.io/badge/Laragon-181818?style=for-the-badge&logo=laragon&logoColor=06B6F6" /><br/>
         <img src="https://img.shields.io/badge/Figma-181818?style=for-the-badge&logo=figma&logoColor=F24E1E" /><br/>
         <img src="https://img.shields.io/badge/Postman-181818?style=for-the-badge&logo=postman&logoColor=F24E1E" />
+        <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F24E1E" />
       </td>
       <td align="center" width="20%">
         <strong>Databases</strong><br/><br/>
