@@ -12,8 +12,9 @@
 <span align="center">
   
   ## Hello, I'm Alexandrian Bon!
-  **A BSIS student aspiring to be a Web Developer**
-  <br/>BUT still learning, discovering and exploring other roles. Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
+  **A BSIS student aspiring to be a web developer**
+  <br/>BUT still learning, discovering, and exploring other roles.<br/>
+  Just like what Emily Dickinson said: _"I'm out with lanterns looking for myself"_.
   
 </span>
 
